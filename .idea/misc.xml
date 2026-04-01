@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (mlops_data_vresioning)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (mlops_data_vresioning)" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,12 @@
+[project]
+name = "mlops-dvc-base"
+version = "0.1.0"
+description = "Taller de DVC - BCD4205 MLOps"
+requires-python = ">=3.8"
+dependencies = [
+    "pandas>=1.5.0",
+    "scikit-learn>=1.2.0",
+    "dvc>=3.0.0",
+    "dvc-gdrive>=2.0.0",
+    "dvc-s3>=3.0.1",
+]
