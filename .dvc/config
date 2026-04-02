@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://mlops-tp4-navarro-2026/dvc-storage
+    profile = mlops-course
